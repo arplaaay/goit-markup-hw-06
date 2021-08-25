@@ -1030,6 +1030,10 @@ button {
   transition-duration: 250ms;
 }
 
+.conditions-svg-border {
+  cursor: pointer;
+}
+
 .conditions-input {
   -webkit-appearance: none;
   -moz-appearance: none;
